@@ -1,0 +1,67 @@
+#topbar {
+
+	background-color: royalblue;
+	padding: 24px;
+
+}
+
+span {
+
+	font-size: 25px;
+	padding: 8px;
+	font-weight: bold;
+
+}
+
+body {
+
+	margin: 0;
+	background-color: lightskyblue;
+
+}
+
+h2 {
+
+	padding-left: 24px;
+	font-size: 25px;
+	font-weight: bold;
+
+}
+
+ul {
+
+	font-size: 25px;
+
+}
+
+.section {
+
+	width: "50px";
+	height: "50 px";
+	margin: auto;
+	text-align: center;
+
+}
+
+.food-image {
+
+	width: 400px;
+	height: 400px;
+
+}
+
+.food-image1 {
+
+	width: 400px;
+	height: 600px;
+
+}
+
+.menu-item {
+
+	font-size: 20px;
+	font-weight: bold;
+	font-color: black;
+
+}
+

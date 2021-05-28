@@ -1,0 +1,66 @@
+.invoice {
+
+	background-color: lightskyblue;
+
+}
+
+.sub-headings {
+
+	background-color: lightskyblue;
+
+}
+
+.subtotal {
+
+	background-color: lightskyblue;
+	text-align: left;
+
+}
+
+.tax {
+
+	background-color: lightskyblue;
+
+}
+
+.grandtotal {
+
+	background-color: lightskyblue;
+
+}
+
+table {
+
+	padding: 8px;
+	width:500px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 2px solid black;
+	font-size: 16px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+table, td, th {
+
+	border: 1px solid black;
+	border-collapse: collapse;
+	font-size: 16px;
+	text-align: left;
+	padding: 16px;
+	margin-top: 50px;
+
+}
+
+td {
+
+	padding: 16px;
+	background-color: white;
+
+}
+
+body {
+	background-color: seashell;
+}
+
